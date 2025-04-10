@@ -131,4 +131,17 @@ color: white;
 padding: 20px;
 text-align: center;
 }
+#cadsbot {
+        border-radius: 10px;
+        padding: 10px;
+        font-size: 15px;
+        padding-left: 30px;
+        padding-right: 30px;
+        background-color: orange;
+        border: none;
+      }
+      #cadsbot:hover {
+        background-color: rgb(255, 196, 70);
+        transition: background-color 1s;
+      }
 
